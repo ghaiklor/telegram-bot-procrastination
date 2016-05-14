@@ -1,6 +1,6 @@
 # telegram-bot-procrastination
 
-Magic ball that tells you the truth of life.
+Magic ball helps you choose a right decision.
 
 [Add me to Contact List](http://telegram.me/Procrastination8BallBot)
 

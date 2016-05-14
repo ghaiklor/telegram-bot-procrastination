@@ -12,7 +12,7 @@ if (!process.env.PORT) throw new Error('You must provide PORT');
 
 const bot = new TelegramBot(process.env.TELEGRAM_BOT_TOKEN, {polling: process.env.NODE_ENV !== 'production'});
 if (process.env.NODE_ENV === 'production') {
-  bot.setWebHook(`http://telegram-bot-procrastination.herokuapp.com/${bot.token}`)
+  bot.setWebHook(`https://telegram-bot-procrastination.herokuapp.com/${bot.token}`)
 } else {
   bot.setWebHook('');
 }

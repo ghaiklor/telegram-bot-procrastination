@@ -1,7 +1,7 @@
 {
-  "name": "telegram-procrastination-8-ball-bot",
+  "name": "telegram-bot-procrastination",
   "version": "1.0.0",
-  "description": "Magic ball that tells you the truth of life",
+  "description": "Magic ball helps you choose a right decision",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/ghaiklor/telegram-procrastination-8-ball-bot#readme",
   "dependencies": {
-    "body-parser": "^1.15.1",
-    "express": "^4.13.4",
-    "node-telegram-bot-api": "^0.21.1",
-    "require-all": "^2.0.0"
+    "body-parser": "1.15.1",
+    "express": "4.13.4",
+    "node-telegram-bot-api": "0.21.1",
+    "require-all": "2.0.0"
   }
 }

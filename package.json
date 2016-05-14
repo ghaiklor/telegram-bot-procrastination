@@ -1,0 +1,22 @@
+{
+  "name": "telegram-procrastination-8-ball-bot",
+  "version": "1.0.0",
+  "description": "Magic ball that tells you the truth of life",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghaiklor/telegram-procrastination-8-ball-bot.git"
+  },
+  "author": "ghaiklor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghaiklor/telegram-procrastination-8-ball-bot/issues"
+  },
+  "homepage": "https://github.com/ghaiklor/telegram-procrastination-8-ball-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.21.1"
+  }
+}

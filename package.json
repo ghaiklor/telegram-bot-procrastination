@@ -20,6 +20,6 @@
     "body-parser": "1.18.3",
     "express": "5.0.0-alpha.6",
     "node-telegram-bot-api": "0.30.0",
-    "require-all": "2.2.0"
+    "require-all": "3.0.0"
   }
 }

@@ -21,7 +21,7 @@
   "dependencies": {
     "body-parser": "1.19.0",
     "express": "5.0.0-alpha.6",
-    "node-telegram-bot-api": "0.51.0",
+    "node-telegram-bot-api": "0.52.0",
     "require-all": "2.2.0",
     "snyk": "^1.316.1"
   },
